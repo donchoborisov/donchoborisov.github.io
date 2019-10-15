@@ -4,11 +4,11 @@
 
 
 
-[Kennel Association](/sample_page)
+[Kennel Association](/www.ksm.org.mk)
 <img src="images/Screenshot_1.png?raw=true"/>
 
 ---
-[Laravel Tasks ](/pdf/sample_presentation.pdf)
+[Laravel Tasks ]
 <img src="images/Screenshot_2.png?raw=true"/>
 
 ---

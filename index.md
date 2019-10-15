@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Kennel Association](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screen_shot1.jpg?raw=true"/>
 
 ---
 [Laravel Tasks ](/pdf/sample_presentation.pdf)

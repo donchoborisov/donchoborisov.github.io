@@ -4,7 +4,7 @@
 
 
 
-[Kennel Association](http://www.ksm.org.mk)
+Kennel Association
 <img src="images/Screenshot_1.png?raw=true"/>
 
 ---

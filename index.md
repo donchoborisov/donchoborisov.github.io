@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+
 
 [Kennel Association](/sample_page)
 <img src="images/Screenshot_1.png?raw=true"/>

@@ -8,11 +8,11 @@ Kennel Association
 <img src="images/Screenshot_1.png?raw=true"/>
 
 ---
-[Laravel Tasks ]
+Laravel Tasks 
 <img src="images/Screenshot_2.png?raw=true"/>
 
 ---
-[Hotel Reservation Manager]
+Hotel Reservation Manager
 <img src="images/Screenshot_7.png?raw=true"/>
 
 ---
